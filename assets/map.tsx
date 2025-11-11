@@ -1,5 +1,5 @@
 {
-  "activeTheme": "theme1",
+  "activeTheme": "theme4",
 
   "themes": {
     "theme1": {

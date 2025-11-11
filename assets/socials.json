@@ -61,8 +61,8 @@
   },
   "threads": {
     "color": "rgba(0, 0, 0, 1)",
-    "name": "logo-threads",
-    "type": "Ionicons"
+    "name": "threads",
+    "type": "FontAwesome6"
   },
   "tiktok": {
     "color": "rgba(255, 0, 80, 1)",

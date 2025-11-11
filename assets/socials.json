@@ -2,27 +2,27 @@
   "discord": {
     "color": "rgba(88, 101, 242, 1)",
     "name": "logo-discord",
-    "type": "Ionicons",
+    "type": "Ionicons"
   },
   "facebook": {
     "color": "rgba(24, 119, 242, 1)",
     "name": "logo-facebook",
-    "type": "Ionicons",
+    "type": "Ionicons"
   },
   "flickr": {
     "color": "rgba(255, 0, 255, 1)",
     "name": "logo-flickr",
-    "type": "Ionicons",
+    "type": "Ionicons"
   },
   "instagram": {
     "color": "rgba(225, 48, 108, 1)",
     "name": "logo-instagram",
-    "type": "Ionicons",
+    "type": "Ionicons"
   },
   "linkedin": {
     "color": "rgba(0, 119, 181, 1)",
     "name": "logo-linkedin",
-    "type": "Ionicons",
+    "type": "Ionicons"
   },
   "medium": {
     "color": "rgba(0, 0, 0, 1)",
@@ -32,57 +32,57 @@
   "pinterest": {
     "color": "rgba(230, 0, 35, 1)",
     "name": "logo-pinterest",
-    "type": "Ionicons",
+    "type": "Ionicons"
   },
   "reddit": {
     "color": "rgba(255, 69, 0, 1)",
     "name": "logo-reddit",
-    "type": "Ionicons",
+    "type": "Ionicons"
   },
   "skype": {
     "color": "rgba(0, 129, 206, 1)",
     "name": "logo-skype",
-    "type": "Ionicons",
+    "type": "Ionicons"
   },
   "snapchat": {
     "color": "rgba(255, 252, 0, 1)",
     "name": "logo-snapchat",
-    "type": "Ionicons",
+    "type": "Ionicons"
   },
   "spotify": {
     "color": "rgba(30, 215, 96, 1)",
     "name": "spotify",
-    "type": "FontAwesome",
+    "type": "FontAwesome"
   },
   "telegram": {
     "color": "rgba(0, 136, 204, 1)",
     "name": "telegram",
-    "type": "MaterialIcons",
+    "type": "MaterialIcons"
   },
   "threads": {
     "color": "rgba(0, 0, 0, 1)",
     "name": "logo-threads",
-    "type": "Ionicons",
+    "type": "Ionicons"
   },
   "tiktok": {
     "color": "rgba(255, 0, 80, 1)",
     "name": "logo-tiktok",
-    "type": "Ionicons",
+    "type": "Ionicons"
   },
   "tumblr": {
     "color": "rgba(50, 50, 50, 1)",
     "name": "logo-tumblr",
-    "type": "Ionicons",
+    "type": "Ionicons"
   },
   "twitch": {
     "color": "rgba(100, 65, 165, 1)",
     "name": "logo-twitch",
-    "type": "Ionicons",
+    "type": "Ionicons"
   },
   "twitter": {
     "color": "rgba(29, 161, 242, 1)",
     "name": "logo-twitter",
-    "type": "Ionicons",
+    "type": "Ionicons"
   },
   "vk": {
     "color": "rgba(76, 117, 163, 1)",
@@ -92,16 +92,16 @@
   "wechat": {
     "color": "rgba(0, 204, 0, 1)",
     "name": "logo-wechat",
-    "type": "Ionicons",
+    "type": "Ionicons"
   },
   "whatsapp": {
     "color": "rgba(37, 211, 102, 1)",
     "name": "logo-whatsapp",
-    "type": "Ionicons",
+    "type": "Ionicons"
   },
   "youtube": {
     "color": "rgba(255, 0, 0, 1)",
     "name": "logo-youtube",
-    "type": "Ionicons",
+    "type": "Ionicons"
   },
 }

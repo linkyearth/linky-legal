@@ -29,6 +29,11 @@
     "name": "logo-medium",
     "type": "Ionicons"
   },
+  "meetup": {
+    "color": "rgba(237, 28, 64, 1.0)",
+    "name": "meetup",
+    "type": "FontAwesome",
+  },
   "pinterest": {
     "color": "rgba(230, 0, 35, 1)",
     "name": "logo-pinterest",
@@ -68,6 +73,11 @@
     "color": "rgba(255, 0, 80, 1)",
     "name": "logo-tiktok",
     "type": "Ionicons"
+  },
+  "tripadvisor": {
+    "color": "rgba(52, 224, 161, 1)",
+    "name": "tripadvisor",
+    "type": "FontAwesome",
   },
   "tumblr": {
     "color": "rgba(50, 50, 50, 1)",

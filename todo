@@ -1,0 +1,59 @@
+add this to terms and conditions
+    "render_modal_linky_info_socials": {
+      "title": "Disclaimer for External Links",
+      "sections": [
+        {
+          "title": "Third-Party Responsibility",
+          "text": "By clicking on any external links provided in a Linky post, you acknowledge that these links direct you to third-party websites or social media platforms (e.g., WhatsApp, Facebook, Telegram, Spotify, Twitter, Pinterest, Discord and more...)."
+        },
+        {
+          "title": "Safety and Content Notice",
+          "text": "While we strive to ensure that all shared links are safe, Linkys cannot guarantee the content, accuracy, or reliability of external platforms. We encourage users to remain vigilant and proceed with caution when interacting with third-party content."
+        },
+        {
+          "title": "User Responsibility",
+          "text": "You are solely responsible for complying with the terms and privacy policies of the third-party services you choose to engage with through Linkys."
+        },
+        {
+          "title": "No Liability Disclaimer",
+          "text": "Linkys is not liable for any damages, losses, or issues that may arise from your interaction with content hosted outside the platform."
+        },
+        {
+          "title": "Why Only One Link per Platform",
+          "text": "To avoid confusion and ensure clarity for users, Linkys limits each Linky to one social link per platform (e.g., one WhatsApp link, one Telegram link). In most cases, a single group or contact is sufficient to represent a service or offering. Having multiple links to the same platform can be redundant and might overwhelm viewers with unnecessary options. This approach keeps the experience clean and focused for everyone accessing your content."
+        }
+      ]
+    },
+    "render_modal_linky_info_images": {
+      "title": "Images & Tagging Guidelines",
+      "sections": [
+        {
+          "title": "Image Uploads by Linky Owners Only",
+          "text": "Only the creator of a Linky can upload and manage its images. This helps ensure content accuracy, ownership integrity, and a safer platform for everyone."
+        },
+        {
+          "title": "Contribute Through Tagging",
+          "text": "While image uploads are limited to owners, all users are encouraged to contribute by tagging Linkys with relevant keywords. Thoughtful tags improve discovery and enhance the experience for the community."
+        },
+        {
+          "title": "Respect Content Ownership",
+          "text": "If you're uploading images to your Linky, make sure you either own the rights or have clear permission to use them. Respecting intellectual property is essential to keeping Linkys fair and legal."
+        },
+        {
+          "title": "Follow Community Standards",
+          "text": "All images must comply with our Community Guidelines, Terms of Service, and Privacy Policy. Content that is inappropriate, offensive, or unlawful is strictly prohibited."
+        },
+        {
+          "title": "Violations & Enforcement",
+          "text": "Any image that violates these standards may be removed without warning. Repeated or serious violations can lead to account restrictions or suspension."
+        },
+        {
+          "title": "Report Problematic Content",
+          "text": "Help us keep Linkys safe by reporting any images you believe violate our policies. Use the “Report” feature to notify our moderation team for review."
+        },
+        {
+          "title": "Thank You for Contributing",
+          "text": "Your efforts—whether through tagging or reporting—help build a respectful, trustworthy, and engaging platform for everyone."
+        }
+      ]
+    },

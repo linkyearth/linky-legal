@@ -57,3 +57,25 @@ add this to terms and conditions
         }
       ]
     },
+
+    "render_modal_linky_info_address_picker": {
+      "title": "Location & Linkys",
+      "sections": [
+        {
+          "title": "Why It Matters",
+          "text": "Adding a real location makes your Linky more authentic and easier for others to discover. It builds trust in the community."
+        },
+        {
+          "title": "Community Guidelines",
+          "text": "Only post Linkys for places you know or have visited. This keeps the content relevant, reliable, and helpful for everyone."
+        },
+        {
+          "title": "How It Works",
+          "text": "We check your device’s GPS to confirm you’re near the spot. Make sure location services are on for smooth posting."
+        },
+        {
+          "title": "If Location Can't Be Verified",
+          "text": "If we can’t confirm the location, your Linky may not go live. Double-check your location settings before posting."
+        }
+      ]
+    },

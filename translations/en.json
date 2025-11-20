@@ -1,5 +1,7 @@
 {
-  "linkyCreation": {
-    "alertTitle": "kukuriku !!!! Create a New Linky"
-  },
+  "app": {
+    "linkyCreation": {
+      "alertTitle": "kukuriku !!!! Create a New Linky"
+    }
+  }
 }

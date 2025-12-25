@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "updatedAt": "2025-07-14T00:00:00Z",
+  "defaults": {
+    "theme": "default"
+  },
+  "themes": {
+    "default": {
+      "logo": "https://cdn.linky.earth/themes/default/logo.png",
+      "background": "https://cdn.linky.earth/themes/default/bg.png",
+      "title": "Map your social universe",
+      "subtitle": "Join the adventure! Pin your world, share your vibe."
+    },
+    "bastille_day_fr": {
+      "logo": "https://cdn.linky.earth/themes/france/bastille/logo.png",
+      "background": "https://cdn.linky.earth/themes/france/bastille/bg.png",
+      "title": "Bonne fête nationale 🇫🇷",
+      "subtitle": "Aujourd’hui, la France célèbre sa liberté."
+    },
+    "us_independence_day": {
+      "logo": "https://cdn.linky.earth/themes/usa/4july/logo.png",
+      "background": "https://cdn.linky.earth/themes/usa/4july/bg.png",
+      "title": "Happy Independence Day 🇺🇸",
+      "subtitle": "Celebrating freedom, unity, and independence."
+    },
+    "earthquake_solidarity": {
+      "logo": "https://cdn.linky.earth/themes/solidarity/quake/logo.png",
+      "background": "https://cdn.linky.earth/themes/solidarity/quake/bg.png",
+      "title": "We stand with you 🤍",
+      "subtitle": "Our thoughts are with everyone affected."
+    }
+  },
+  "rules": [
+    {
+      "id": "fr_bastille_day",
+      "priority": 100,
+      "match": {
+        "country": [
+          "FR"
+        ],
+        "date": {
+          "from": "07-14",
+          "to": "07-14"
+        }
+      },
+      "theme": "bastille_day_fr"
+    },
+    {
+      "id": "us_independence_day",
+      "priority": 100,
+      "match": {
+        "country": [
+          "US"
+        ],
+        "date": {
+          "from": "07-04",
+          "to": "07-04"
+        }
+      },
+      "theme": "us_independence_day"
+    },
+    {
+      "id": "earthquake_turkey",
+      "priority": 200,
+      "match": {
+        "country": [
+          "TR"
+        ],
+        "date": {
+          "from": "2025-02-06",
+          "to": "2025-02-20"
+        }
+      },
+      "theme": "earthquake_solidarity"
+    }
+  ]
+}

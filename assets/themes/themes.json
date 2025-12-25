@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "updatedAt": "2025-07-14T00:00:00Z",
+  "defaults": {
+    "theme": "default"
+  },
+  "themes": {
+    "default": {
+      "login": {
+        "logo": "https://linkyearth.github.io/linky-legal/assets/default/logo.png",
+        "bckg": "https://linkyearth.github.io/linky-legal/assets/default/bckg.png",
+        "title": "Pin your world, share your vibe, explore together",
+        "subtitle": "Join this adventure! Let's re-invent together a more human social technology"
+      },
+      "main": {
+        "logo": "https://linkyearth.github.io/linky-legal/assets/default/logo.png"
+      }
+    },
+    "fr_bastille_day": {
+      "login": {
+        "logo": "https://linkyearth.github.io/linky-legal/assets/fr_bastille_day/logo.png",
+        "bckg": "https://linkyearth.github.io/linky-legal/assets/fr_bastille_day/bckg.png",
+        "title": "Bonne fête nationale 🇫🇷",
+        "subtitle": "Aujourd’hui, la France célèbre sa liberté."
+      },
+      "main": {
+        "logo": "https://linkyearth.github.io/linky-legal/assets/fr_bastille_day/logo.png"
+      }
+    },
+    "us_independence_day": {
+      "login": {
+        "logo": "https://linkyearth.github.io/linky-legal/assets/us_independence_day/logo.png",
+        "bckg": "https://linkyearth.github.io/linky-legal/assets/us_independence_day/bckg.png",
+        "title": "Happy Independence Day 🇺🇸",
+        "subtitle": "Celebrating freedom, unity, and independence."
+      },
+      "main": {
+        "logo": "https://linkyearth.github.io/linky-legal/assets/us_independence_day/logo.png"
+      }
+    }
+  },
+  "rules": [
+    {
+      "id": "fr_bastille_day",
+      "priority": 100,
+      "match": {
+        "country": [
+          "FR"
+        ],
+        "date": {
+          "from": "07-14",
+          "to": "07-14"
+        }
+      },
+      "theme": "fr_bastille_day"
+    },
+    {
+      "id": "us_independence_day",
+      "priority": 100,
+      "match": {
+        "country": [
+          "US"
+        ],
+        "date": {
+          "from": "07-04",
+          "to": "07-04"
+        }
+      },
+      "theme": "us_independence_day"
+    }
+  ]
+}

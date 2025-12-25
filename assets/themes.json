@@ -6,28 +6,22 @@
   },
   "themes": {
     "default": {
-      "logo": "https://cdn.linky.earth/themes/default/logo.png",
-      "background": "https://cdn.linky.earth/themes/default/bg.png",
-      "title": "Map your social universe",
-      "subtitle": "Join the adventure! Pin your world, share your vibe."
+      "logo": "https://linkyearth.github.io/linky-legal/assets/logo-3.png",
+      "background": "https://linkyearth.github.io/linky-legal/assets/bckg-4.png",
+      "title": "Pin your world, share your vibe, explore together",
+      "subtitle": "Join this adventure! Let's re-invent together a more human social technology"
     },
-    "bastille_day_fr": {
-      "logo": "https://cdn.linky.earth/themes/france/bastille/logo.png",
-      "background": "https://cdn.linky.earth/themes/france/bastille/bg.png",
+    "fr_bastille_day": {
+      "logo": "https://linkyearth.github.io/linky-legal/assets/logo-3.png",
+      "background": "https://linkyearth.github.io/linky-legal/assets/bckg-4.png",
       "title": "Bonne fête nationale 🇫🇷",
       "subtitle": "Aujourd’hui, la France célèbre sa liberté."
     },
     "us_independence_day": {
-      "logo": "https://cdn.linky.earth/themes/usa/4july/logo.png",
-      "background": "https://cdn.linky.earth/themes/usa/4july/bg.png",
+      "logo": "https://linkyearth.github.io/linky-legal/assets/logo-3.png",
+      "background": "https://linkyearth.github.io/linky-legal/assets/bckg-4.png",
       "title": "Happy Independence Day 🇺🇸",
       "subtitle": "Celebrating freedom, unity, and independence."
-    },
-    "earthquake_solidarity": {
-      "logo": "https://cdn.linky.earth/themes/solidarity/quake/logo.png",
-      "background": "https://cdn.linky.earth/themes/solidarity/quake/bg.png",
-      "title": "We stand with you 🤍",
-      "subtitle": "Our thoughts are with everyone affected."
     }
   },
   "rules": [
@@ -43,7 +37,7 @@
           "to": "07-14"
         }
       },
-      "theme": "bastille_day_fr"
+      "theme": "fr_bastille_day"
     },
     {
       "id": "us_independence_day",
@@ -58,20 +52,6 @@
         }
       },
       "theme": "us_independence_day"
-    },
-    {
-      "id": "earthquake_turkey",
-      "priority": 200,
-      "match": {
-        "country": [
-          "TR"
-        ],
-        "date": {
-          "from": "2025-02-06",
-          "to": "2025-02-20"
-        }
-      },
-      "theme": "earthquake_solidarity"
     }
   ]
 }

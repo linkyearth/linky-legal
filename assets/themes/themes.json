@@ -18,24 +18,24 @@
     },
     "fr_bastille_day": {
       "login": {
-        "logo": "https://linkyearth.github.io/linky-legal/assets/fr_bastille_day/logo.png",
+        "logo": "https://linkyearth.github.io/linky-legal/assets/fr_bastille_day/logo_fr4.png",
         "bckg": "https://linkyearth.github.io/linky-legal/assets/fr_bastille_day/bckg.png",
-        "title": "Bonne fête nationale 🇫🇷",
-        "subtitle": "Aujourd’hui, la France célèbre sa liberté."
+        "title": "Pin your world, share your vibe, vive la France 🇫🇷",
+        "subtitle": "Celebrate liberty, unity and enjoy together"
       },
       "main": {
-        "logo": "https://linkyearth.github.io/linky-legal/assets/fr_bastille_day/logo.png"
+        "logo": "https://linkyearth.github.io/linky-legal/assets/fr_bastille_day/logo_fr4.png"
       }
     },
     "us_independence_day": {
       "login": {
-        "logo": "https://linkyearth.github.io/linky-legal/assets/us_independence_day/logo.png",
+        "logo": "https://linkyearth.github.io/linky-legal/assets/us_independence_day/logo_usa1.png",
         "bckg": "https://linkyearth.github.io/linky-legal/assets/us_independence_day/bckg.png",
-        "title": "Happy Independence Day 🇺🇸",
-        "subtitle": "Celebrating freedom, unity, and independence."
+        "title": "Pin your world, share your vibe, celebrate freedom 🇺🇸",
+        "subtitle": "On Independence Day, we honor connection, diversity, and the freedom to belong."
       },
       "main": {
-        "logo": "https://linkyearth.github.io/linky-legal/assets/us_independence_day/logo.png"
+        "logo": "https://linkyearth.github.io/linky-legal/assets/us_independence_day/logo_usa1.png"
       }
     }
   },
@@ -45,11 +45,11 @@
       "priority": 100,
       "match": {
         "country": [
-          "FR"
+          "FR", "IL"
         ],
         "date": {
-          "from": "07-14",
-          "to": "07-14"
+          "from": "12-26",
+          "to": "12-26"
         }
       },
       "theme": "fr_bastille_day"
@@ -59,11 +59,11 @@
       "priority": 100,
       "match": {
         "country": [
-          "US"
+          "US", "IL"
         ],
         "date": {
-          "from": "07-04",
-          "to": "07-04"
+          "from": "12-27",
+          "to": "12-27"
         }
       },
       "theme": "us_independence_day"

@@ -2,7 +2,7 @@
   "version": 1,
   "updatedAt": "2025-07-14T00:00:00Z",
   "defaults": {
-    "theme": "default"
+    "theme": "fr_bastille_day"
   },
   "themes": {
     "default": {

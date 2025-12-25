@@ -2,7 +2,7 @@
   "version": 1,
   "updatedAt": "2025-07-14T00:00:00Z",
   "defaults": {
-    "theme": "us_independence_day"
+    "theme": "default"
   },
   "themes": {
     "default": {
